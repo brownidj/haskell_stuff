@@ -21,7 +21,7 @@ f . g | can be read as 'f composed with g’
 -} | End of short comment
 \+ | Add operator
 \- | Subtract/negate operator
-* | Multiply operator
+\* | Multiply operator
 / | Division operator, Substitution operator, as in e{f/x}
 ^ | Raise-to-the-power operators 
 ^^ | Raise-to-the-power operators
