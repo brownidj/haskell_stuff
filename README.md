@@ -32,8 +32,8 @@ f . g | can be read as 'f composed with g’
 <= | Less-than-or-equal operator 
 == | Equal operator
 /= | Not-equal operator  
->= | Greater-than-or-equal operator
-> | Greater-than operator
+\>= | Greater-than-or-equal operator
+\> | Greater-than operator
 \ | Lambda operator 
 . | Function composition operator, Name qualifier
 | | Guard and case specifier, Separator in list comprehension, Alternative in data definition (enum type) 
