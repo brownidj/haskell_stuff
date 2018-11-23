@@ -6,7 +6,7 @@ http://learn.hfm.io/fundamentals.html
 Symbol | Meaning
 :---|:---
 \| | can be read as 'evaluates to’ or  'such that’ or 'or’
--> | can be read as 'returns’ eg a -> a can be read as take a parameter 'a' and return 'a'
+-> | can be read as 'returns’ eg a -> a can be read as: take a parameter 'a' and return 'a'
 <- | can be read as 'is drawn from’ eg [x*2 \| x <- [1..10]]. x is drawn from [1..10]
 <- | List comprehension generator, Single assignment operator in do-constr.
 => | can be read as 'evaluates to’
