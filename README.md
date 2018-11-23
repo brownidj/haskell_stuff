@@ -19,9 +19,9 @@ f . g | can be read as 'f composed with g’
 -- | Start of comment line
 {- | Start of short comment
 -} | End of short comment
-+ | Add operator
+\plus | Add operator
 - | Subtract/negate operator
-* | Multiply operator
+\times | Multiply operator
 / | Division operator, Substitution operator, as in e{f/x}
 ^ | Raise-to-the-power operators 
 ^^ | Raise-to-the-power operators
