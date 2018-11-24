@@ -48,9 +48,9 @@ f . g | can be read as 'f composed with g’
 :: | Type specification operator, “has type of” 
 => | Context inheritance from class
 () | Empty value in IO () type
->> | Monad sequencing operator
->>= | Monad sequencing operator with value passing 
->@> | Object composition operator (monads) 
+\>> | Monad sequencing operator
+\>>= | Monad sequencing operator with value passing 
+\>@> | Object composition operator (monads) 
 (..) | Constructor for export operator (postfix) 
 [and] | List constructors, “,” as separator
 (and) | Tuple constructors, “,” as separator, Infix-to-prefix constructors
