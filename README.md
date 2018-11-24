@@ -1,5 +1,5 @@
 # Haskell - how to read
-[https://wiki.haskell.org/How_to_read_Haskell]
+https://wiki.haskell.org/How_to_read_Haskell
 
 http://learn.hfm.io/fundamentals.html
 
